@@ -54,7 +54,7 @@ def query_doc(query: str) -> str:
                                 chain_type="stuff",
                                 retriever=vector_db.as_retriever(search_type='similarity'),
                                 chain_type_kwargs={"document_prompt": document_prompt},
-                                verbose=True
+                                #verbose=True
                             )
 
     result = retrieverqa({"query": query})

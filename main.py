@@ -1,27 +1,26 @@
-import pandas as pd
-from time import sleep
-from tqdm import tqdm
+from termcolor import cprint
 from rag.query import query_doc
+from rag.audio_prompt import listen
+import pyttsx3
 
-if __name__ == '__mainf__':
-    df = pd.read_csv('sample_questions.csv')
-    # print(df['Question'])
 
-    # question = "नए पैन के लिए आवेदन करने के लिए कौन से दस्तावेज़ आवश्यक हैं?"
-    # ans = query_doc(query=question)
-    # print(ans)
-
-    pred_answers = []
-
-    for ques in tqdm(df['Question'], desc="Processing query: "):
-        # print('\n',ques)
-        answer = query_doc(query=ques)
-        pred_answers.append(str(answer))
-        sleep(10)
-
-    new_df = {'Question' : df['Question'].to_list(), 
-            'Ideal Answer' : df['Ideal Answer'].to_list(), 
-            'Predicted Answers': pred_answers}
+if __name__ == '__main__':
     
-    new_df = pd.DataFrame(new_df)
-    new_df.to_csv('final_result_3.csv', index=None)
+    audio = input("Want to use microphone? [types Y/n]: ")
+    if audio.lower() == 'y':
+        ques = listen()
+    elif audio.lower() == 'n':
+        ques = input("Type your question here: ")
+    else:
+        raise ValueError(f'Unknown option {audio}')
+   
+    if not ques.startswith('Sorry'):
+        answer = query_doc(query=ques)
+        cprint(f"{answer}", 'blue')
+        if audio.lower() == 'y':
+            engine = pyttsx3.init()
+            engine.say(answer)
+            engine.runAndWait()
+    else:
+        cprint("Please try again", 'red')
+        
