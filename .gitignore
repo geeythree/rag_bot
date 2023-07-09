@@ -1,3 +1,13 @@
+# Data related files
+rag/chroma_db
+rag/chroma_db_2
+
+# Test files
+rag/vectorise_data_2.py
+final_result_2.csv
+final_result_4.csv
+final_result.xlsx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

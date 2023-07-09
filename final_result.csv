@@ -1,0 +1,203 @@
+Question,Ideal Answer,Predicted Answers,Similarity Score,SAS Score,Context QA Eval
+What are the documents required to apply for the new pan,"If you have Aadhaar card
+No other document is required. You can get your pan card through your Aadhaar card in 10 minutes.
+
+If you don’t have an Aadhaar card
+- Passport(Any Country) / OCI Card
+- Passport Size Photograph
+- Overseas address proof with zip code (Supporting documents - Indian NRO/NRE Account statement or Overseas bank statement or Utility bill). If you have any further questions or need assistance with the application process, please feel free to contact SBNRI.","If you have an Aadhaar card, no other document is required. You can get your PAN card through your Aadhaar card in 10 minutes.
+
+If you don't have an Aadhaar card, the documents required for a new PAN card are:
+- Passport (Any Country) / OCI Card
+- Passport Size Photograph
+- Overseas address proof with zip code (Supporting documents - Indian NRO/NRE Account statement or Overseas bank statement or Utility bill)",0.520553768,0.5574773550033569,1
+What is the cost/fees of a PAN card?,"The cost of applying for a new PAN card is Rs 2500 for E-PAN. If you want it to be couriered, it will cost Rs 1200 extra for physical delivery to your address. Kindly note that this cost is only for applying for a new PAN card and not for linking PAN with Aadhaar.","The cost/fees of a PAN card depends on whether you want an e-PAN or a physical PAN card. For an e-PAN, the cost is INR 2500. If you want a physical PAN card, the cost is INR 3700.",0.51727432,0.6385634541511536,1
+Can I take the delivery of Pan card at Indian address,"Yes, you can take the delivery of your PAN card only at an Indian address mentioned in your Aadhaar card. While applying for a new PAN card or requesting corrections, you can provide your Indian address as the delivery address. Make sure to provide accurate and complete address details to ensure successful delivery.","Yes, you can take the delivery of the PAN card at an Indian address.",0.498345256,0.7318066358566284,1
+How long does it usually take to receive the PAN card after applying?,"Once the payment is made, we will contact you and initiate the process. Pan card will be issued in 3 weeks after submitting the application. 
+
+(You can get an e-Pan Card in under 10 minutes, if you have an Aadhaar card.)","If you have an Aadhaar card, you can get a PAN card instantly (in under 10 minutes) when you apply through ABC. However, if you don't have an Aadhaar card, the PAN card will be issued in 3 weeks after the payment is made to ABC.",0.5008955,0.8386015295982361,1
+How to apply for PAN card,"Here are the steps for *PAN CARD* processing. 
+
+- Visit SBNRI app
+- Navigate to Services > NRI Pan Card > Apply New PAN
+- Select the required form of PAN card and proceed with the payment
+- Our team will get in touch with you to ask for the following documents:
+    - Passport(Any Country) / OCI Card
+    - Passport Size Photograph
+    - Overseas address proof with zip code (Supporting documents - Indian NRO/NRE Account statement or Overseas bank statement or Utility bill)","To apply for a PAN card, you can follow these steps:
+
+1. Visit the ABC app or website.
+2. Navigate to Services > NRI Pan Card > Apply New PAN.
+3. Select the required form of PAN card and proceed with the payment.
+4. Our team will get in touch with you to ask for the following documents:
+   - Passport (Any Country) / OCI Card.
+   - Passport Size Photograph.
+   - Overseas address proof with zip code (Supporting documents - Indian NRO/NRE Account statement or Overseas bank statement or Utility bill).
+
+Please note that if you have an Aadhaar card, you can get a PAN card instantly in under 10 minutes. However, if you don't have an Aadhaar card, the PAN card will be issued in 3 weeks after the payment is made to ABC.",0.505719602,0.6385786533355713,1
+What is the process to apply for PAN card,"Here are the steps for *PAN CARD* processing. 
+
+- Visit SBNRI app
+- Navigate to Services > NRI Pan Card > Apply New PAN
+- Select the required form of PAN card and proceed with the payment
+- Our team will get in touch with you to ask for the following documents:
+    - Passport(Any Country) / OCI Card
+    - Passport Size Photograph
+    - Overseas address proof with zip code (Supporting documents - Indian NRO/NRE Account statement or Overseas bank statement or Utility bill)","The process to apply for a PAN card is as follows:
+1. Visit the ABC app.
+2. Navigate to Services > NRI Pan Card > Apply New PAN.
+3. Select the required form of PAN card and proceed with the payment.
+4. Our team will get in touch with you to ask for the following documents:
+   - Passport (Any Country) / OCI Card.
+   - Passport Size Photograph.
+   - Overseas address proof with zip code (Supporting documents - Indian NRO/NRE Account statement or Overseas bank statement or Utility bill).",0.478717655,0.6706681847572327,1
+Can I apply for a PAN card if I am a non-resident Indian (NRI)?,"Yes, as an NRI, you can apply for a PAN card. The process for applying for a PAN card is the same for both residents and NRIs. However, if you are an OCI holder or a person of Indian origin who holds foreign citizenship, you will need to fill Form 49AA to apply for a PAN card.","Yes, as an NRI, you can apply for a PAN card if you wish to carry out financial transactions in India, earn income in India and file income tax returns, or invest in mutual funds in India.",0.48961699,0.6059078574180603,1
+Can I apply for pan card without Aadhaar?,"Yes, NRIs can apply for a PAN card without an Aadhaar Card? They can simply do so by filling out either of the forms – 49A (for citizens of India) or Form 49AA (for foreign citizens).","Yes, you can apply for a PAN card without Aadhaar. If you don't have an Aadhaar card, you will need to provide other documents such as a passport (any country) or OCI card, a passport size photograph, and overseas address proof with a zip code. The supporting documents for overseas address proof can be an Indian NRO/NRE account statement, overseas bank statement, or utility bill. Once the payment is made, the process will be initiated, and the PAN card will be issued in 3 weeks.",0.508557796,0.5828703045845032,1
+What are the charges of linking Pan & Aadhaar,"The charges for linking Pan & Aadhaar is INR 2000/-, including the penalty charges to be paid for the delay in linking Pan & Aadhaar. It is important to link your PAN and Aadhaar cards to avoid any legal complications in India.","The charges for linking Pan & Aadhaar is INR 2000/-, including the penalty charges to be paid for the delay in linking Pan & Aadhaar.",0.48809424,0.7430294156074524,1
+How long does Pan & Aadhaar linking take,It takes up to 6 to 7 days for PAN Aadhaar linking for NRIs.,It takes up to 6 to 7 days for PAN Aadhaar linking for NRIs.,0.492542982,0.9721884727478028,1
+Is Aadhaar-Pan linking mandatory for the NRIs,"No, Aadhaar and PAN linking is optional for NRIs. However, to avoid any legal complications in India, NRIs should either link their PAN to Aadhaar, or update their status as non-resident.","No, Aadhaar-PAN linking is optional for NRIs. However, to avoid any legal complications in India, NRIs should either link their PAN to Aadhaar or update their status as non-resident.",0.49203971,0.953628659248352,1
+"Can the linking be done online, or do I need to visit a service center?","The linking of PAN and Aadhaar can be done online, and there is no need to visit a service center. SBNRI can assist you in linking your PAN and Aadhaar cards digitally.","Based on the given context, it is not mentioned whether the linking can be done online or if a visit to a service center is required. Therefore, I don't have enough information to answer your question.",0.50395304,0.4850166141986847,0
+Who needs a Pan card?,All individuals/non-individuals (including foreign citizens/entities) earning taxable income in India must have a PAN card.,All individuals/non-individuals (including foreign citizens/entities) earning taxable income in India must have a PAN card.,0.483718514,0.9524653553962708,1
+How many types of PAN cards are there?,"In India, two types of PAN cards are available: e-PAN card and physical PAN card.
+
+1. e-PAN card: An e-PAN card is a digitally-signed PAN card issued in electronic format. It contains the same PAN details as a physical PAN card but is available in a digital format. 
+2. Physical PAN card: A physical PAN card is a laminated card with your PAN details printed on it. It is a physical document that can be carried and used as a valid identification proof. 
+
+Both e-PAN and physical PAN cards have the same validity and can be used for identification purposes. The choice between the two depends on the applicant's preference and requirements.",There are two types of PAN cards in India: e-PAN card and physical PAN card.,0.509435892,0.7563390731811523,1
+Why do NRIs need PAN card?,"NRIS don’t need to have a PAN Card. However, a PAN Card is necessary for NRIs if they wish to do any of the following in India:
+
+1. Carry out financial transactions (open bank account, invest in stocks, buy/sell property etc).
+
+2. If an NRI earns an income in India, they must file income tax returns. A PAN card is necessary to file these returns.","NRIs need a PAN card for several reasons. Firstly, if they wish to carry out financial transactions in India such as opening a bank account, investing in stocks, purchasing or selling property, or investing in India, a PAN card is required. Secondly, if an NRI earns income in India, they must file income tax returns, and a PAN card is necessary for this purpose. Lastly, if an NRI wants to invest in mutual funds in India, they must have a PAN card. However, it is important to note that the requirement for a PAN card may vary depending on the type of NRI account. For example, for NRE accounts, NRIs can opt for Form 60 as a substitute for PAN, while for NRO accounts, a PAN card is mandatory.",0.505744636,0.6936406493186951,1
+Is PAN card required to open an NRI account?,"NRI Accounts comprise of NRE,NRO and FCNR Accounts. A basic overview to understand the importance of PAN Card:
+
+1) NRE: NRIs can opt for Form 60, which is a substitute for PAN for opening an NRE Account.
+
+2) NRO: For funds earned in India which are mostly liable to taxes. Therefore, a PAN Card is mandatory for NRO Accounts.
+
+3) FCNR: For foreign currency term deposits from outside India. Again, the principal and interest are tax-free, so usage of a PAN Card is not necessary and can be substituted with Form 60.","The PAN card is not required to open an NRE account, but it is mandatory to have a PAN card for opening an NRO account.",0.49821195,0.5380640029907227,1
+How can an NRI apply for a new PAN card?,"Here are the steps for *PAN CARD* processing. 
+
+- Visit SBNRI app
+- Navigate to Services > NRI Pan Card > Apply New PAN
+- Select the required form of PAN card and proceed with the payment
+- Our team will get in touch with you to ask for the following documents:
+    - Passport(Any Country) / OCI Card
+    - Passport Size Photograph
+    - Overseas address proof with zip code (Supporting documents - Indian NRO/NRE Account statement or Overseas bank statement or Utility bill)","To apply for a new PAN card as an NRI, you can follow these steps:
+
+1. Visit the ABC app.
+2. Navigate to Services > NRI Pan Card > Apply New PAN.
+3. Select the required form of PAN card and proceed with the payment.
+4. Our team will get in touch with you to ask for the following documents:
+   - Passport (Any Country) / OCI Card.
+   - Passport Size Photograph.
+   - Overseas address proof with zip code (Supporting documents - Indian NRO/NRE Account statement or Overseas bank statement or Utility bill).
+
+Please note that this information is based on the provided context.",0.501703978,0.6862296462059021,1
+What is the process to update details on PAN Card?,"To update the details on your PAN card, follow the steps:
+
+- Go to SBNRI app
+- Navigate to Services > NRI PAN Card > PAN Card Correction
+- Request reissue the required PAN card and make the payment
+- Our team will reachout to you for the required documents
+
+Do you want to start the process here instead? Click the button below.","To update the details on your PAN card, you have to generate the reissue request for the Updation/ Correction of the PAN CARD. Follow the steps:  
+1. Go to ABC app
+2. Navigate to Services > NRI PAN Card > PAN Card Correction
+3. Request reissue the required PAN card and make the payment
+4. Our team will reach out to you for the required documents. 
+
+Please note that the time required to complete the correction process for the PAN card can vary, but it generally takes around 2-3 weeks.",0.484745204,0.6324756741523743,1
+Process to change the citizenship on PAN Card,"No direct provisions exist to change citizenship in a Pan Card as the *PAN Card* doesn’t display your citizenship. It is a document required to file taxes, carry out investments and do transactions in India, whether you are a citizen, NRI, or OCI.
+
+To change the citizenship in a PAN card, you must meet and notify your jurisdictional Assessing Officer. For NRIs, it is not easy to meet the assessing officer. However, SBNRI can meet or notify the jurisdictional assessing officer on your behalf. Contact a tax expert at SBNRI to change your citizenship on PAN card.","To change the citizenship on a PAN Card, you need to meet and notify your jurisdictional Assessing Officer. For NRIs, it may be difficult to meet the assessing officer in person. However, you can contact a tax expert at ABC who can meet or notify the jurisdictional assessing officer on your behalf. They will guide you through the process of changing your citizenship on the PAN Card. The time required to update the citizenship status on the PAN Card is generally around a month, but it can vary depending on factors such as workload and the responsiveness of the authorities.",0.492243499,0.6484465599060059,1
+Time required to update the citizenship status on PAN Card,"Generally, it takes around a month to complete the process, but the duration can vary based on factors such as workload and the authorities' responsiveness.","Generally, it takes around a month to complete the process of updating the citizenship status on a PAN card. However, the duration can vary based on factors such as workload and the authorities' responsiveness.",0.501459062,0.6641271114349365,1
+Process to link PAN with Aadhaar,#NAME?,"To link your PAN card with Aadhaar, you need to follow the process mentioned below:
+
+1. Gather the required documents: You will need a copy of your PAN card and Aadhaar card.
+
+2. Share the documents: Kindly share a copy of your PAN card and Aadhaar card with ABC. They will review the documents.
+
+3. Payment link: After reviewing the documents, ABC will share a payment link for the linking process.
+
+4. Make the payment: Follow the payment link provided by ABC and complete the payment for the linking process.
+
+5. Deadline: It is important to note that the new deadline for linking Aadhaar with PAN card is 30 June 2023. If you fail to link your PAN with Aadhaar before this deadline, your PAN card may become inoperative.
+
+If you have any further questions or concerns, it is recommended to reach out to ABC for assistance.",0.520131648,0.6248909831047058,1
+What are the documents required to link PAN with Aadhaar?,"Kindly share a copy of your pan card and Aadhaar card. SBNRI will review the documents and share a payment link for the linking.
+
+New Deadline for linking Aadhaar with pan card 30 June 2023. PAN will become inoperative after June 2023 if not linked to Aadhaar.",The documents required to link PAN with Aadhaar are a copy of your PAN card and a copy of your Aadhaar card.,0.49786666,0.6140720844268799,1
+I want to change my Father's name on the pan card what's the process?,"To change your father's name on your PAN card, you need to generate a reissue request for the updation/correction of the PAN card. Kindly keep these documents ready for the PAN card updation process:
+
+- Copy of existing PAN card
+- Passport (Any Country) / OCI Card
+- Passport size photograph
+- Overseas address proof with zip code (Supporting documents - Indian NRO/NRE Account statement or Overseas bank statement or Utility bill)
+
+Once you have the necessary documents, you can initiate the PAN card correction process.","To update the details on your PAN card, including your Father's name, you need to follow these steps:
+
+1. Go to the ABC app.
+2. Navigate to Services > NRI PAN Card > PAN Card Correction.
+3. Request a reissue of the required PAN card and make the payment.
+4. Our team will reach out to you for the required documents.
+
+Please note that you will need to provide the necessary documents, such as a copy of your existing PAN card, Passport/OCI Card, a passport-sized photograph, and overseas address proof with a zip code (such as an Indian NRO/NRE Account statement or overseas bank statement or utility bill).
+
+The duration to complete the correction process for your PAN card can vary, but it generally takes around 2-3 weeks.",0.51074183,0.6343317031860352,1
+I want to change my DOB on the pan card what's the process? ,"To update the Date of Birth on your PAN card, you have to generate the reissue request for the Updation/ Correction of the PAN CARD. Follow the steps:
+
+- Go to SBNRI app
+- Navigate to Services > NRI PAN Card > PAN Card Correction
+- Request reissue the required PAN card and make the payment
+- Our team will reachout to you for the required documents
+
+Do you want to start the process here instead? Click the button below.","To update the details on your PAN card, including the date of birth (DOB), you need to follow these steps:
+
+1. Go to the ABC app.
+2. Navigate to Services > NRI PAN Card > PAN Card Correction.
+3. Request a reissue of the required PAN card and make the payment.
+4. Our team will reach out to you for the required documents.
+
+Please note that the duration to complete the correction process for your PAN card can vary, but it generally takes around 2-3 weeks.
+
+Additionally, to update the DOB on your PAN card, you will need to provide the following documents:
+- Copy of Existing PAN card
+- Passport (Any Country) / OCI Card
+- Passport Size Photograph
+- Overseas address proof with zip code (Supporting documents - Indian NRO/NRE Account statement or Overseas bank statement or Utility bill)
+
+If you have any further questions or need assistance, please let us know.",0.520270646,0.5860452651977539,1
+Do my pan number get changes in reissue of Pan card,"No, your PAN number will remain the same even if you reissue your PAN card. The reissued PAN card will have the same PAN number as the previous one.","No, your PAN number does not change when you reissue your PAN card. The reissue process is only for updating or correcting the details on your existing PAN card. Your PAN number remains the same.",0.517121673,0.7923242449760437,1
+Document requirement for pan card details correction,"To correct your PAN card details, you need to submit the following documents:
+- Copy of Existing PAN card
+- Passport (Any Country) /OCI card
+- Passport-sized photo
+- Overseas address proof with zip code (Supporting documents - Indian NRO/NRE Account statement or Overseas bank statement or Utility bill)
+
+You can apply for PAN card correction through our platform and get it done in 2-3 weeks. The service fees for reissuing an E-PAN card is INR 2,500. ","To update the details on your PAN card, you will need the following documents:
+
+1. Copy of Existing PAN card
+2. Passport (Any Country) / OCI Card
+3. Passport Size Photograph
+4. Overseas address proof with zip code (Supporting documents - Indian NRO/NRE Account statement or Overseas bank statement or Utility bill)
+
+Please note that these documents are required for the correction process of your PAN card.",0.51066798,0.5871438980102539,1
+What are the charges for pan card details correction,"The service fees for correcting details on your PAN card is INR 2,500 for reissuing an E-PAN card. ",I don't know the answer to that question.,0.500163913,0.024281783029437,0
+I want to reprint the pan card what's the process of it?,"To reprint your PAN card, you need to follow a specific procedure that involves providing certain documents and information to authenticate your identity. The process can take around 2-3 weeks to complete. You can apply for a reprint through SBNRI. We will guide you through the process and help you obtain a new copy of your PAN card.","To reprint your PAN card, you need to follow a specific procedure that involves providing certain documents and information to authenticate your identity. The process can take around 2-3 weeks to complete. You can apply for a reprint through ABC. We will guide you through the process and help you obtain a new copy of your PAN card.",0.500305176,0.7666993141174316,1
+Documents required for reprinting PAN card,"1. If you remember your PAN number:
+- Pan number
+- Passport(Any Country) / OCI Card
+- Passport Size Photograph
+- Overseas address proof with zip code (Supporting documents - Indian NRO/NRE Account statement or Overseas bank statement or Utility bill)
+
+2. If you don’t remember your PAN number:
+This gets tricky in most cases so our representative will reach out to you to inform you about the process.
+
+Do you remember your PAN card number?","To reprint your PAN card, you need to follow a specific procedure that involves providing certain documents and information to authenticate your identity. The process can take around 2-3 weeks to complete. You can apply for a reprint through ABC. We will guide you through the process and help you obtain a new copy of your PAN card.",0.481048465,0.451558917760849,0
+How long does the process for reprinting pan card take,"The process for reprinting a PAN card usually takes around 2-3 weeks to complete. Once you apply for a reprint and make the payment, we will initiate the process and contact you for further details. ",The process for reprinting a PAN card generally takes around 2-3 weeks to complete.,0.491422623,0.7185007333755493,1
+what are the charges for reprinting pan card,"The charges for reprinting the PAN Card are INR 2500 for e-pan, and INR 3700 for physical pan card. ",The charges for reprinting the PAN Card are INR 2500 for e-pan and INR 3700 for a physical pan card.,0.487610996,0.9720055460929872,1
+Can I take the delivery of Pan card at Indian address?,"Yes, you can take the delivery of your PAN card only at an Indian address mentioned in your Aadhaar card. While applying for a new PAN card or requesting corrections, you can provide your Indian address as the delivery address. Make sure to provide accurate and complete address details to ensure successful delivery.","Yes, you can take the delivery of the physical PAN card at an Indian address. However, please note that there will be an additional cost of Rs 1200 for courier delivery to your address.",0.482753754,0.6452796459197998,1
+Can I apply for pan card without Aadhaar?,"Yes, NRIs can apply for a PAN card without an Aadhaar Card? They can simply do so by filling out either of the forms – 49A (for citizens of India) or Form 49AA (for foreign citizens).","Yes, you can apply for a PAN card without Aadhaar. If you don't have an Aadhaar card, you will need to provide other documents such as a passport (any country) or OCI card, a passport size photograph, and overseas address proof with a zip code. The supporting documents for overseas address proof can be an Indian NRO/NRE account statement, overseas bank statement, or utility bill. Once the payment is made, the process will be initiated, and the PAN card will be issued in 3 weeks.",0.469385713,0.5828703045845032,1
+Can I apply for a PAN card if I am a non-resident Indian (NRI)?,"Yes, as an NRI, you can apply for a PAN card. The process for applying for a PAN card is the same for both residents and NRIs. However, if you are an OCI holder or a person of Indian origin who holds foreign citizenship, you will need to fill Form 49AA to apply for a PAN card.","Yes, as an NRI, you can apply for a PAN card if you wish to carry out financial transactions in India, earn income in India and file income tax returns, or invest in mutual funds in India.",0.487686068,0.6059078574180603,1
