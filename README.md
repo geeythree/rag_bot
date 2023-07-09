@@ -5,8 +5,11 @@ Chatbot to perform question-answer based on knowledge document
 ## Avilable features:
 1. Multilingual querying 
 2. Results Evaluation 
-3. Query with audio (microphone) and get back response in audio format  (PS: multilingual querying not supported)
+3. Query with audio (microphone) and get back response in audio format  
 
+PS:
+1. Currently multilingual querying is not supported for Indian languages.
+2. When using audio, only English language is supported as of now.
 ## Running the chatbot script
 ```
 python main.py
@@ -24,7 +27,7 @@ python rag/vectorise_data.py
 <br>
 PS: Update the sample_question.csv to create a new list of questions, or create a new sheet with questions and ideal answers (if evaluation is required).
 ```
-python main.py
+python run_all.py
 ```
 
 3. Evalution can be performed using multiple evalutaion methods such as Bi-Encoder, Semantic Similarity, and ContextQAEval. Run this script:

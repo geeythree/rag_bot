@@ -1,6 +1,16 @@
 import speech_recognition as sr
 
-def listen():
+def listen() -> str:
+    """
+    Converts speech to text
+
+    Code adapted from -> https://python.langchain.com/docs/use_cases/chatbots/voice_assistant.html 
+
+    Returns
+    -------
+    text: str
+          Audio converted to text format
+    """
     r = sr.Recognizer()
     with sr.Microphone() as source:
         print("listening now...")
