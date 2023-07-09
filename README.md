@@ -1,5 +1,7 @@
 # Information Retrieval from Knowledge Document with LLM
 
+Try DEMO here: https://geeythree-ragbot.streamlit.app/ 
+
 Chatbot to perform question-answer based on knowledge document 
 
 ## Avilable features:
