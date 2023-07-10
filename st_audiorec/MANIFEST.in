@@ -1,0 +1,11 @@
+include frontend\.env
+include frontend\.prettierrc
+include frontend\package-lock.json
+include frontend\package.json
+include frontend\tsconfig.json
+include frontend\public\bootstrap.min.css
+include frontend\public\index.html
+include frontend\public\styles.css
+include frontend\src\index.tsx
+include frontend\src\react-app-env.d.ts
+include frontend\src\StreamlitAudioRecorder.tsx

@@ -12,18 +12,12 @@ def st_audiorec():
 
     # get parent directory relative to current directory
     parent_dir = os.path.dirname(os.path.abspath(__file__))
-    
-    try:
-         # Custom REACT-based component for recording client audio in browser
-        build_dir = os.path.join(parent_dir, "st_audiorec/frontend/build")
-        # specify directory and initialize st_audiorec object functionality
-        st_audiorec = components.declare_component("st_audiorec", path=build_dir)
-    except:
-        current_dir = os.getcwd()
-        # Custom REACT-based component for recording client audio in browser
-        build_dir = os.path.join(current_dir, "st_audiorec/frontend/build")
-        # specify directory and initialize st_audiorec object functionality
-        st_audiorec = components.declare_component("st_audiorec", path=build_dir)
+    # Custom REACT-based component for recording client audio in browser
+    build_dir = os.path.join(parent_dir, "st_audiorec/frontend/build")
+    #build_dir_url = "https://github.com/geeythree/streamlit_speech_rec/tree/main/frontend/build"
+    # specify directory and initialize st_audiorec object functionality
+    st_audiorec = components.declare_component("st_audiorec", path=build_dir)
+
     # Create an instance of the component: STREAMLIT AUDIO RECORDER
     raw_audio_data = st_audiorec()  # raw_audio_data: stores all the data returned from the streamlit frontend
     wav_bytes = None                # wav_bytes: contains the recorded audio in .WAV format after conversion
