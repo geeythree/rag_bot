@@ -1,3 +1,6 @@
+# env file
+rag_env
+
 # Data related files
 rag/chroma_db
 rag/chroma_db_2

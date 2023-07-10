@@ -1,17 +1,22 @@
 import streamlit as st
-from audio_recorder_streamlit import audio_recorder
+# from audio_recorder_streamlit import audio_recorder
 from rag.query import query_doc
 from rag.audio_prompt import audio_to_text
 import pyttsx3
+from io import BytesIO
+import streamlit.components.v1 as components
+from st_custom_components import st_audiorec
 
 st.title("Retrieval Augmented Generation (RAG)")
 st.subheader("You may ask questions about PAN card")
 
 text_prompt = st.text_input("Write a text prompt")
+st.write('Or record an audio prompt: ')
+audio_prompt = st_audiorec()
+# audio_prompt = audio_recorder("To start recording click on the mic icon, click on it again to stop recording: ")
 
-audio_prompt = audio_recorder("To start recording click on the mic icon, click on it again to stop recording: ")
-if audio_prompt:
-    st.audio(audio_prompt, format="audio/wav")
+if audio_prompt is not None:
+    # st.audio(audio_prompt, format="audio/wav")
     text = audio_to_text(audio_prompt)
     st.write(text)
     if not text.startswith('Sorry'):

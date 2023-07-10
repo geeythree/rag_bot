@@ -4,6 +4,7 @@ Try DEMO here: https://geeythree-ragbot.streamlit.app/
 
 Chatbot to perform question-answer based on knowledge document 
 
+
 ## Avilable features:
 1. Multilingual querying 
 2. Results Evaluation 
@@ -12,6 +13,15 @@ Chatbot to perform question-answer based on knowledge document
 PS:
 1. Currently multilingual querying is not supported for Indian languages.
 2. When using audio, only English language is supported as of now.
+
+## Install dependencies
+Please create a new virtual environment and install the dependencies from the requirements file. 
+```
+pip install -r requirements.txt
+```
+If you want to run the main.py, you will aditionally require to install PyAudio.
+Refer this document to install PyAudio https://people.csail.mit.edu/hubert/pyaudio/
+
 ## Running the chatbot script
 ```
 python main.py
