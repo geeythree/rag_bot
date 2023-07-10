@@ -18,8 +18,9 @@ def st_audiorec():
         # specify directory and initialize st_audiorec object functionality
         st_audiorec = components.declare_component("st_audiorec", path=build_dir)
     except:
-         # Custom REACT-based component for recording client audio in browser
-        build_dir = os.path.join(parent_dir, "app/st_audiorec/frontend/build")
+        # Custom REACT-based component for recording client audio in browser
+        # build_dir = os.path.join(parent_dir, "st_audiorec/frontend/build")
+        build_dir = "rag_bot/st_audiorec/frontend/build"
         # specify directory and initialize st_audiorec object functionality
         st_audiorec = components.declare_component("st_audiorec", path=build_dir)
     # Create an instance of the component: STREAMLIT AUDIO RECORDER
